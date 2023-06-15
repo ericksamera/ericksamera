@@ -1,4 +1,10 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericksamera)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">Hey, I'm Erick!</h1>
+<h3 align="center">Biologist🧬 with some programming experience</h3>
+<p align="left">
+</p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericksamera&show_icons=true&theme=radical&locale=en&layout=compact" alt="ericksamera" /></p>
+
 
 <!--
 **ericksamera/ericksamera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
