@@ -10,7 +10,8 @@
 - 🛠️ [WIP] [Also check out this sequence analysis toolset!](https://ericksamera-abi-sauce-main-349h0c.streamlit.app/)
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericksamera&show_icons=true&theme=radical&locale=en&layout=compact" alt="ericksamera" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericksamera&layout=compact)
 
 <!--
 **ericksamera/ericksamera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
