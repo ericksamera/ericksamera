@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  Python · R · Bash · Go · Snakemake · SLURM · Git · Bioconda
+  Python · R · Bash · Go · Julia · Snakemake · SLURM · Git · Bioconda
 </p>
 
 <p align="center">
@@ -16,9 +16,12 @@
   <a href="https://www.linkedin.com/in/erick-samera">LinkedIn</a> ·
   <a href="https://orcid.org/0009-0007-4253-6718">ORCID</a> ·
   <a href="https://erick-samera.gitbook.io/introduction-to-applied-bioinformatics/">bioinformatics workbook</a> ·
-  <a href="https://abi-sauce.streamlit.app/">sequence tools</a>
+  <a href="https://ericksamera-abi-sauce-main-349h0c.streamlit.app/">sequence tools</a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksamera&layout=compact&langs_count=8&hide_title=true" />
+</p>
 <!--
 **ericksamera/ericksamera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
