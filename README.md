@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/erick-samera">LinkedIn</a> ·
   <a href="https://orcid.org/0009-0007-4253-6718">ORCID</a> ·
   <a href="https://erick-samera.gitbook.io/introduction-to-applied-bioinformatics/">bioinformatics workbook</a> ·
-  <a href="https://ericksamera-abi-sauce-main-349h0c.streamlit.app/">sequence tools</a>
+  <a href="https://abi-sauce.streamlit.app/">sequence tools</a>
 </p>
 
 <p align="center">
