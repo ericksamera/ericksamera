@@ -1,17 +1,23 @@
-<h1 align="center">Hey, I'm Erick!</h1>
-<h3 align="center">Biologist in genomics 🧬 with some programming experience.</h3>
+<h1 align="center">Hey, I'm Erick 🧬</h1>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+<h3 align="center">
+  Bioinformatician building reproducible NGS workflows and genomics tools.
+</h3>
 
-<p align="left">
+<p align="center">
+  Python · R · Bash · Go · Snakemake · SLURM · Git · Bioconda
 </p>
 
-- 📖 [WIP] [Check out this bioinformatics resource I'm working on!](https://erick-samera.gitbook.io/introduction-to-applied-bioinformatics/)
-- 🛠️ [WIP] [Also check out this sequence analysis toolset!](https://ericksamera-abi-sauce-main-349h0c.streamlit.app/)
+<p align="center">
+  variant QC · microbial genomics · metagenomics · assay bioinformatics · sequencing workflows
+</p>
 
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericksamera&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/erick-samera">LinkedIn</a> ·
+  <a href="https://orcid.org/0009-0007-4253-6718">ORCID</a> ·
+  <a href="https://erick-samera.gitbook.io/introduction-to-applied-bioinformatics/">bioinformatics workbook</a> ·
+  <a href="https://abi-sauce.streamlit.app/">sequence tools</a>
+</p>
 
 <!--
 **ericksamera/ericksamera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
