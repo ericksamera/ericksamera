@@ -20,7 +20,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksamera&layout=compact&langs_count=8&hide_title=true" />
+  <a href="https://github.com/Pranesh-2005/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ericksamera&layout=compact&langs_count=8&card_width=320" />
+  </a>
 </p>
 <!--
 **ericksamera/ericksamera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
